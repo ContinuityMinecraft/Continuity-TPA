@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TpaPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TpaPlugin.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.capy.TpaPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.capy.TpaPlugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.continuity.TpaPlugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.continuity.TpaPlugin.main.iml" />
     </modules>
   </component>
 </project>

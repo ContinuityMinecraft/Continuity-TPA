@@ -1,6 +1,9 @@
-package org.capy.tpaplugin;
+package org.continuity.tpa;
 
 import org.bukkit.plugin.java.JavaPlugin;
+import org.continuity.tpa.commands.TpaCommand;
+import org.continuity.tpa.commands.TpnCommand;
+import org.continuity.tpa.commands.TpyCommand;
 
 public final class TpaPlugin extends JavaPlugin {
 

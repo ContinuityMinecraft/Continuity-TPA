@@ -1,4 +1,4 @@
-package org.capy.tpaplugin;
+package org.continuity.tpa;
 
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;

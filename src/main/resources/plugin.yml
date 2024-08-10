@@ -1,6 +1,6 @@
-name: TpaPlugin
+name: ContinuityTpa
 version: '${version}'
-main: org.capy.tpaplugin.TpaPlugin
+main: org.continuity.tpa.TpaPlugin
 api-version: '1.20'
 commands:
   tpa:

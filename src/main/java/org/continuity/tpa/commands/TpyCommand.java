@@ -1,4 +1,4 @@
-package org.capy.tpaplugin;
+package org.continuity.tpa.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
@@ -6,6 +6,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
+import org.continuity.tpa.TpaManager;
+import org.continuity.tpa.TpaPlugin;
 
 public class TpyCommand implements CommandExecutor {
     private final Plugin plugin = TpaPlugin.getPlugin();

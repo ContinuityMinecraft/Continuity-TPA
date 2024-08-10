@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'org.capy'
+group = 'org.continuity'
 version = '0.1'
 
 repositories {

@@ -1,10 +1,11 @@
-package org.capy.tpaplugin;
+package org.continuity.tpa.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
+import org.continuity.tpa.TpaManager;
 
 public class TpaCommand implements CommandExecutor {
     private final TpaManager tpaManager = TpaManager.getInstance();
