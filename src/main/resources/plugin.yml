@@ -1,0 +1,14 @@
+name: TpaPlugin
+version: '${version}'
+main: org.capy.tpaplugin.TpaPlugin
+api-version: '1.20'
+commands:
+  tpa:
+    description: send a teleport request to someone
+    usage: /tpa
+  tpy:
+    description: accept a tpa request
+    usage: /tpy
+  tpn:
+    description: deny a tpa request
+    usage: /tpn
